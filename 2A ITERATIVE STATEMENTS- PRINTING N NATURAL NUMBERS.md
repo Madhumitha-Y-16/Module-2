@@ -31,10 +31,9 @@ for i in range(1,num+1):
 
 ```
 ### OUTPUT
-```
+
 <img width="1185" height="611" alt="image" src="https://github.com/user-attachments/assets/6898f553-a667-4d1a-b15e-06021996db75" />
 
-```
 ### RESULT
 ```
 Thus,an iterative python program is written to print n natural numbers.
