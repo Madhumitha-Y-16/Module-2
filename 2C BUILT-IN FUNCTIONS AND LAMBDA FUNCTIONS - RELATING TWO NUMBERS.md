@@ -22,19 +22,23 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-
 ```
+REG NO : 212223060144
+NAME : Madhumitha Y
+# Define the lambda function
+multiply_by_45 = lambda z: z * 45
 
+# Example usage
+result = multiply_by_45(int(input()))  # Example input
+print(result)  # Output will be 450
 ```
-
 ### OUTPUT
 
-```
+<img width="404" height="245" alt="image" src="https://github.com/user-attachments/assets/69c806b1-ad76-454c-b71b-004f3b4a5365" />
 
-```
 
 ### RESULT
 
 ```
-
+Thus lambda function which takes z as a parameter and returns z*45 using python is implemented and successfully verified
 ```
